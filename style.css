@@ -82,12 +82,12 @@ body {
     height: 44px;
     color: #473E43;
     background-color: #F7D22D;
+    font-family: Montserrat, 'sans-serif';
     font-size: 14px;
     font-weight: 700;
     padding: 8px 35px;
     border: none;
     border-radius: 8px;
-    cursor: pointer;
     margin: 25px auto 21px 63px;
     align-self: flex-start;
     cursor: pointer;

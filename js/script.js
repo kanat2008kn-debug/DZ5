@@ -6,4 +6,4 @@ document.querySelector('.info__button').addEventListener('click', function () {
     buttonText = this.textContent;
     this.textContent = buttonText2;
     buttonText2 =  buttonText;
-})
+}) 
